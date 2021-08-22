@@ -1,4 +1,4 @@
-[MY_CV(https://LazurNiko.github.io/layout_snake/)
+[MY_CV](https://LazurNiko.github.io/layout_snake/)
 
 Hello, my name is Niko
 I’m a goal-oriented, creative and self-motivated web developer 
