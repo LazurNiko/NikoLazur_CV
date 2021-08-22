@@ -1,0 +1,223 @@
+body {
+    background: rgba(0, 139, 139, 0.815);
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0;
+}
+
+.wrapper {
+    border: #ffffff;
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+    margin: 0;
+    background: rgb(23, 64, 117);
+    width: 300px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-photo {
+    width: 300px;
+}
+
+li {
+    color: rgb(218, 149, 0);
+}
+
+.Contacts {
+    background: rgb(13, 146, 223);
+    width: 240px;
+    padding: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.Techskills {
+    width: 300px;
+    padding: 40px;
+    
+}
+
+.Softskills {
+    width: 300px;
+    padding-left: 40px;
+    margin-bottom: 40px;
+    margin-bottom: 10px;
+}
+
+.sksize {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: ghostwhite;
+}
+
+.skills {
+    color: rgb(218, 149, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.my1 {
+    color: rgb(255, 218, 115);
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.meinfo {
+    padding-left: 90px;
+    padding-top: 110px;
+    padding-top: 90px;
+}
+
+.tel {
+    color: darkturquoise;
+    text-decoration: none;
+}
+
+.telmailw {
+  
+    color: darkturquoise;
+    margin-right: 10px;
+}
+
+.cont {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    color: ghostwhite;
+    padding-left: 14px;
+}
+
+.Photogr {
+     font-family: 'Montserrat', sans-serif;
+     font-size: 14px;
+     font-weight: 700;
+     line-height: 24px;
+     margin-bottom: 23px;
+}
+.Info {
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 24px;
+     margin-top: 24px;
+     font-family: 'Montserrat', sans-serif;
+}
+.profe {
+    margin-bottom: 65px;
+}
+
+.portfolio {
+     font-size: 22px;
+     font-weight: 700;
+     line-height: 24px;
+     font-family: 'Montserrat', sans-serif;
+}
+
+.portnumber {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.port {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(218, 149, 0);
+    text-decoration: none;
+}
+
+.fontport {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+.fonb {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.dots {
+    font-weight: 100;
+}
+
+.projcontainer {
+    margin-bottom: 55px;
+}
+.job1 {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 24px;
+    margin-top: 18px;
+    margin-bottom: 14px;
+}
+.jobcolor {
+    color: rgb(218, 149, 0);
+}
+.profperiod {
+    font-size: 12px;
+    color: #a8a8a8;;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+.lined {
+    color: #000000;
+}
+.must {
+    margin-bottom: 30px;
+}
+.profitem {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 24px;
+}
+
+.univer {
+    color: rgb(218, 149, 0);
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 24px;
+}
+    .rehab1 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 14px;
+}
+
+.eduinfo {
+margin-top: 21px;
+}
+
+.Edu {
+    margin-top: 40px;
+}
+
+.work {
+    margin-bottom: 10px;
+}
