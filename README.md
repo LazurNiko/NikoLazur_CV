@@ -7,3 +7,9 @@ Sass preprocessor, JS, cross-browser and adaptive markup skills.
 Eager to improve my skills, always try to learn new technologies and stay 
 up-to-date with Web development trends. I also learn quickly and easily 
 communicate with people
+
+Also checkout some of my works: 
+
+- [DEMO Link](https://LazurNiko.github.io/Kickstarter/)
+- [DEMO Link](https://lazurniko.github.io/IVAproduction/)
+- [DEMO Link](https://LazurNiko.github.io/layout_miami/)
