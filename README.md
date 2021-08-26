@@ -10,6 +10,6 @@ communicate with people
 
 Also checkout some of my works: 
 
-- [DEMO Link](https://LazurNiko.github.io/Kickstarter/)
-- [DEMO Link](https://lazurniko.github.io/IVAproduction/)
-- [DEMO Link](https://LazurNiko.github.io/layout_miami/)
+- [Kickstarter Landing Page](https://LazurNiko.github.io/Kickstarter/)
+- [IVA Production Landing Page](https://lazurniko.github.io/IVAproduction/)
+- [Miami Landing Page](https://LazurNiko.github.io/layout_miami/)
